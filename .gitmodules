@@ -1,0 +1,3 @@
+[submodule "proj1/poj1_db1"]
+	path = proj1/poj1_db1
+	url = https://github.com/roylauzon/poj1_db1.git
